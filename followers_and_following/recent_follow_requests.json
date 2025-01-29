@@ -1,0 +1,43 @@
+{
+  "relationships_permanent_follow_requests": [
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/kbl.carla",
+          "value": "kbl.carla",
+          "timestamp": 1736812743
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/ingrid_kant",
+          "value": "ingrid_kant",
+          "timestamp": 1735681254
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/itss_manono",
+          "value": "itss_manono",
+          "timestamp": 1734993950
+        }
+      ]
+    }
+  ]
+}
